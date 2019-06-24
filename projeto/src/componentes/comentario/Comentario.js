@@ -1,6 +1,7 @@
 import React from 'react'
 import './comentario.css'
 
+//axios e chamada de api, refatorando o botão de cadastro
 export default function Comentario(props) {
     console.log(props)
     return (
